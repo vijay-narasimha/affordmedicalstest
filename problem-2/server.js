@@ -41,4 +41,4 @@ const keywords = async (req, res) => {
 
 app.get('/prefixes', keywords);
 
-app.listen(8000, () => console.log('Listening at 8000'));
+app.listen(3000, () => console.log('Listening at 8000'));
